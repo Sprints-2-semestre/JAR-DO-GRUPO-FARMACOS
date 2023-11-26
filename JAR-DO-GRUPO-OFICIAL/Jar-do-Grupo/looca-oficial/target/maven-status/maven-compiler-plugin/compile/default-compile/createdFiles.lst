@@ -1,0 +1,15 @@
+dao\DadosComponentesDao.class
+dao\ValidacaoEmail.class
+modelo\Maquina.class
+teste\Teste$1.class
+dao\MaquinaDao.class
+modelo\DadosComponentes.class
+modelo\MaquinaTipoComponente.class
+conexao\ConexaoAws.class
+conexao\ConexaoSlack.class
+dao\ValidacaoIdMaquina.class
+conexao\Conexao.class
+teste\Teste.class
+modelo\ValidacaoParametro.class
+modelo\EnviarSlack.class
+dao\MaquinaTipoComponenteDao.class
